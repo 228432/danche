@@ -1,0 +1,16 @@
+.container {
+  display: flex;
+}
+.container .nav-left {
+  width: 15%;
+  background-color: red;
+  height: 100vh;
+}
+.container .mian {
+  flex: 1;
+  height: 100vh;
+}
+.container .content {
+  position: relative;
+  padding: 20px;
+}
