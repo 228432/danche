@@ -2,8 +2,7 @@
   display: flex;
 }
 .container .nav-left {
-  width: 15%;
-  background-color: red;
+  background-color: #001529;
   height: 100vh;
 }
 .container .mian {

@@ -1,0 +1,15 @@
+.logo {
+  text-align: center;
+  background-color: #002140;
+}
+.logo img {
+  width: 40px;
+}
+.logo h1 {
+  line-height: 100px;
+  display: inline-block;
+  vertical-align: middle;
+  padding: 0 10px;
+  font-size: 20px;
+  color: #fff;
+}

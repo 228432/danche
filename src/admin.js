@@ -9,11 +9,11 @@ export default class admin extends Component {
     return (
       <div>
             <Row className='container'>   
-                <Col span='4' className='nav-left'>
+                <Col span='3' className='nav-left'>
                 <NavLeft/>
                 </Col>
 
-                <Col span='20' className='main'>
+                <Col span='21' className='main'>
                 <Header/>
 
                 <Row className='content'>
